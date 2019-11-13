@@ -7,10 +7,10 @@
   resolved "https://registry.npmjs.org/@ainc/fs/-/fs-0.0.101.tgz#86e62b889b754f205e0ed647c5c1b61f41992af6"
   integrity sha512-Ooi4ta1z6wSeNI8CefXodG+RYLjl5Hy/7pveDtI8V+af5EUPIXfiJD39B+utL3tf1KOKB/rF+QMTCU3leB/1/w==
 
-"@ainc/script@^0.0.105":
-  version "0.0.105"
-  resolved "https://registry.npmjs.org/@ainc/script/-/script-0.0.105.tgz#cac4b790cf7ae9bec91fb8c46ed49a847231e817"
-  integrity sha512-EZuBwyOB+iMRPlomLzSeS3XW80fRhqN/isZEDA7wgJeRgZn7EnCWeU8k4vzKCukUFV9X+GTs7S2GLfPnGsko5Q==
+"@ainc/script@^0.0.106":
+  version "0.0.106"
+  resolved "https://registry.npmjs.org/@ainc/script/-/script-0.0.106.tgz#64b096a314d37bc8af902167f008a77dd88bfbd3"
+  integrity sha512-OEtYcp/HblLgHVAciyIRoitcpo2OShCTnbaWjMe3judUExzMNGL8zBfas899aJInCx3ccPP0isS1zy2znPLgNw==
   dependencies:
     "@ainc/fs" "^0.0.101"
     "@babel/core" "^7.6.4"
