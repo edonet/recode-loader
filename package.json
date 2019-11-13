@@ -1,6 +1,6 @@
 {
     "name": "recode-loader",
-    "version": "0.0.104",
+    "version": "0.0.105",
     "description": "A recode module loader for webpack",
     "main": "lib/index.js",
     "repository": "git@github.com:edonet/recode-loader.git",
