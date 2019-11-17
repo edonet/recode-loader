@@ -7,6 +7,6 @@
     "author": "edonet <edonet@163.com>",
     "license": "MIT",
     "dependencies": {
-        "@ainc/script": "^0.0.102"
+        "@ainc/script": "^0.0.107"
     }
 }
